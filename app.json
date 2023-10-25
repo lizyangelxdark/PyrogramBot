@@ -31,7 +31,7 @@
     "MONGO_DB_URI": {
       "description": "Get this value from cloud.mongodb.com",
       "required": true,
-      "value": ""
+      "value": "mongodb+srv://userbot:userbot@cluster0.yyijp36.mongodb.net/?retryWrites=true&w=majority"
     },
     "BOT_TOKEN": {
       "description": "Get this value from @BotFather",
